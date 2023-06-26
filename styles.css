@@ -538,6 +538,8 @@ form textarea {
 }
 
 .footer h2 {
+    text-align: center;
+    /* place-items: center; */
     font-size: 1.5rem;
     margin-bottom: 1.6rem;
     color: gray;
